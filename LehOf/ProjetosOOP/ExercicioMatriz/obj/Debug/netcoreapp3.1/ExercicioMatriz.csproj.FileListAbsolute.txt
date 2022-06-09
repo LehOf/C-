@@ -1,0 +1,13 @@
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\ExercicioMatriz\bin\Debug\netcoreapp3.1\ExercicioMatriz.exe
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\ExercicioMatriz\bin\Debug\netcoreapp3.1\ExercicioMatriz.deps.json
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\ExercicioMatriz\bin\Debug\netcoreapp3.1\ExercicioMatriz.runtimeconfig.json
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\ExercicioMatriz\bin\Debug\netcoreapp3.1\ExercicioMatriz.runtimeconfig.dev.json
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\ExercicioMatriz\bin\Debug\netcoreapp3.1\ExercicioMatriz.dll
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\ExercicioMatriz\bin\Debug\netcoreapp3.1\ExercicioMatriz.pdb
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\ExercicioMatriz\obj\Debug\netcoreapp3.1\ExercicioMatriz.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\ExercicioMatriz\obj\Debug\netcoreapp3.1\ExercicioMatriz.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\ExercicioMatriz\obj\Debug\netcoreapp3.1\ExercicioMatriz.AssemblyInfo.cs
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\ExercicioMatriz\obj\Debug\netcoreapp3.1\ExercicioMatriz.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\ExercicioMatriz\obj\Debug\netcoreapp3.1\ExercicioMatriz.dll
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\ExercicioMatriz\obj\Debug\netcoreapp3.1\ExercicioMatriz.pdb
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\ExercicioMatriz\obj\Debug\netcoreapp3.1\ExercicioMatriz.genruntimeconfig.cache

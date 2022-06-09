@@ -1,0 +1,13 @@
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP3\TreinamentoOOP3\bin\Debug\netcoreapp3.1\TreinamentoOOP3.exe
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP3\TreinamentoOOP3\bin\Debug\netcoreapp3.1\TreinamentoOOP3.deps.json
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP3\TreinamentoOOP3\bin\Debug\netcoreapp3.1\TreinamentoOOP3.runtimeconfig.json
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP3\TreinamentoOOP3\bin\Debug\netcoreapp3.1\TreinamentoOOP3.runtimeconfig.dev.json
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP3\TreinamentoOOP3\bin\Debug\netcoreapp3.1\TreinamentoOOP3.dll
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP3\TreinamentoOOP3\bin\Debug\netcoreapp3.1\TreinamentoOOP3.pdb
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP3\TreinamentoOOP3\obj\Debug\netcoreapp3.1\TreinamentoOOP3.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP3\TreinamentoOOP3\obj\Debug\netcoreapp3.1\TreinamentoOOP3.AssemblyInfo.cs
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP3\TreinamentoOOP3\obj\Debug\netcoreapp3.1\TreinamentoOOP3.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP3\TreinamentoOOP3\obj\Debug\netcoreapp3.1\TreinamentoOOP3.dll
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP3\TreinamentoOOP3\obj\Debug\netcoreapp3.1\TreinamentoOOP3.pdb
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP3\TreinamentoOOP3\obj\Debug\netcoreapp3.1\TreinamentoOOP3.genruntimeconfig.cache
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP3\TreinamentoOOP3\obj\Debug\netcoreapp3.1\TreinamentoOOP3.csproj.AssemblyReference.cache

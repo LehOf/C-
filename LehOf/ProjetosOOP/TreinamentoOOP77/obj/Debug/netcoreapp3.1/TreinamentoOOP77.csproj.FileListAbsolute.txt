@@ -1,0 +1,12 @@
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP77\bin\Debug\netcoreapp3.1\TreinamentoOOP77.exe
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP77\bin\Debug\netcoreapp3.1\TreinamentoOOP77.deps.json
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP77\bin\Debug\netcoreapp3.1\TreinamentoOOP77.runtimeconfig.json
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP77\bin\Debug\netcoreapp3.1\TreinamentoOOP77.runtimeconfig.dev.json
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP77\bin\Debug\netcoreapp3.1\TreinamentoOOP77.dll
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP77\bin\Debug\netcoreapp3.1\TreinamentoOOP77.pdb
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP77\obj\Debug\netcoreapp3.1\TreinamentoOOP77.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP77\obj\Debug\netcoreapp3.1\TreinamentoOOP77.AssemblyInfo.cs
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP77\obj\Debug\netcoreapp3.1\TreinamentoOOP77.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP77\obj\Debug\netcoreapp3.1\TreinamentoOOP77.dll
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP77\obj\Debug\netcoreapp3.1\TreinamentoOOP77.pdb
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP77\obj\Debug\netcoreapp3.1\TreinamentoOOP77.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TreinamentoOOP3/1.0.0": {
+        "runtime": {
+          "TreinamentoOOP3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TreinamentoOOP3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

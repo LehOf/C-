@@ -1,0 +1,13 @@
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP79\bin\Debug\netcoreapp3.1\TreinamentoOOP79.exe
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP79\bin\Debug\netcoreapp3.1\TreinamentoOOP79.deps.json
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP79\bin\Debug\netcoreapp3.1\TreinamentoOOP79.runtimeconfig.json
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP79\bin\Debug\netcoreapp3.1\TreinamentoOOP79.runtimeconfig.dev.json
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP79\bin\Debug\netcoreapp3.1\TreinamentoOOP79.dll
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP79\bin\Debug\netcoreapp3.1\TreinamentoOOP79.pdb
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP79\obj\Debug\netcoreapp3.1\TreinamentoOOP79.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP79\obj\Debug\netcoreapp3.1\TreinamentoOOP79.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP79\obj\Debug\netcoreapp3.1\TreinamentoOOP79.AssemblyInfo.cs
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP79\obj\Debug\netcoreapp3.1\TreinamentoOOP79.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP79\obj\Debug\netcoreapp3.1\TreinamentoOOP79.dll
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP79\obj\Debug\netcoreapp3.1\TreinamentoOOP79.pdb
+C:\Users\PICHAU\Source\Repos\LehOf\ProjetosOOP\TreinamentoOOP79\obj\Debug\netcoreapp3.1\TreinamentoOOP79.genruntimeconfig.cache

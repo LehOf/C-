@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oHmHc4rKBFzNtvtIYfiq0oKmN2wqNRqHwnUiAqiQMY6789LwuiNaubtvXEZlVADdn0JLTsnM/sjr8RtArFfVAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PICHAU\\Source\\Repos\\LehOf\\ProjetosOOP\\TreinamentoOOP78\\TreinamentoOOP78.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PICHAU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ha5u18uHZkRt3vmOtk7PmhnMsN54+0aLIwBxPW6MyBhwjFTWO1axqBXlLd8ivVMSoGmG3DhOX2p+2Q9VoD74Ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PICHAU\\Source\\Repos\\LehOf\\ProjetosOOP\\ExercicioMatriz\\ExercicioMatriz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PICHAU\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

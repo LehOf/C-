@@ -1,0 +1,13 @@
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP7\TreinamentoOOP7\bin\Debug\netcoreapp3.1\TreinamentoOOP7.exe
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP7\TreinamentoOOP7\bin\Debug\netcoreapp3.1\TreinamentoOOP7.deps.json
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP7\TreinamentoOOP7\bin\Debug\netcoreapp3.1\TreinamentoOOP7.runtimeconfig.json
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP7\TreinamentoOOP7\bin\Debug\netcoreapp3.1\TreinamentoOOP7.runtimeconfig.dev.json
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP7\TreinamentoOOP7\bin\Debug\netcoreapp3.1\TreinamentoOOP7.dll
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP7\TreinamentoOOP7\bin\Debug\netcoreapp3.1\TreinamentoOOP7.pdb
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP7\TreinamentoOOP7\obj\Debug\netcoreapp3.1\TreinamentoOOP7.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP7\TreinamentoOOP7\obj\Debug\netcoreapp3.1\TreinamentoOOP7.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP7\TreinamentoOOP7\obj\Debug\netcoreapp3.1\TreinamentoOOP7.AssemblyInfo.cs
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP7\TreinamentoOOP7\obj\Debug\netcoreapp3.1\TreinamentoOOP7.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP7\TreinamentoOOP7\obj\Debug\netcoreapp3.1\TreinamentoOOP7.dll
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP7\TreinamentoOOP7\obj\Debug\netcoreapp3.1\TreinamentoOOP7.pdb
+C:\Users\PICHAU\Source\Repos\LehOf\TreinamentoOOP7\TreinamentoOOP7\obj\Debug\netcoreapp3.1\TreinamentoOOP7.genruntimeconfig.cache
